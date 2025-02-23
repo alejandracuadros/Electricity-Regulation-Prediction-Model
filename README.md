@@ -1,7 +1,5 @@
 # Electricity Market Forecasting Challenge
-Developed a machine learning model for electricity regulation predictions, working with probabilistic classification.
 
-## Overview
 This repository contains a solution for a data science competition, where the goal was to develop a predictive model using machine learning techniques. The project explores various optimizations, including hyperparameter tuning, feature engineering, and model selection.
 
 ## Dataset
